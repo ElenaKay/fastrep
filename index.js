@@ -15,7 +15,7 @@ function fastrep(str, num) {
     }
     assert(false);
   }
-  assert(false, 'invalid length value: {'+recon(num)+'}');
+  assert(false, 'invalid length value: {'+(num)+'}');
 }
 
 module.exports.fastrep = fastrep;

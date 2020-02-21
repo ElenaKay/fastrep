@@ -4,7 +4,7 @@
   "homepage": "https://github.com/ElenaKay/fastrep",
   "main": "index.js",
   "files": [ "index.js" ],
-  "version": "0.0.0-prealpha",
+  "version": "0.0.1-prealpha",
   "author": {
     "name": "Elena Mir Karimi",
     "email": "elena.karymy@gmail.com"
