@@ -1,0 +1,24 @@
+{
+  "name": "fastrep",
+  "description": "Very fast, namely O(logn), string repetition ",
+  "homepage": "https://github.com/ElenaKay/fastrep",
+  "main": "index.js",
+  "files": [ "index.js" ],
+  "version": "0.0.0-prealpha",
+  "author": {
+    "name": "Elena Mir Karimi",
+    "email": "elena.karymy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElenaKay/fastrep"
+  },
+  "bugs": { "url": "https://github.com/ElenaKay/fastrep/issues" },
+  "license": "MIT",
+  "keywords": [
+    "pad",
+    "repetition",
+    "fill",
+    "leftpad"
+  ]
+}
